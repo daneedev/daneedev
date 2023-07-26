@@ -1,5 +1,24 @@
 # 💖 Welcome!
 - Hello my nickname is **DaneeSkripter**, my favorite language is **JavaScript**.
+# 🖥️ My Setup
+## 🖥️ My Desktop Computer
+- CPU: Intel Core i7-4790
+- RAM: 16GB
+- Storage:
+  - ADATA NVME SSD 1TB
+  - Samsung SSD 512GB
+- GPU: Asus ROG Strix RTX 3060
+- OS:
+  - Windows 10 Pro
+## 💻 My Laptop
+- Name: Microsoft Surface Pro 7 
+- CPU: Intel Core i5-1035G4
+- RAM: 8GB
+- Storage:
+  - 256GB SSD
+- OS:
+  - Windows 11 Pro
+  - Kali Linux *(im going to change to different distro)*
 ## Contact me
 ![](https://discord.c99.nl/widget/theme-1/525704336869687316.png)<br>
 ## Currently listening
