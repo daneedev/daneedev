@@ -18,7 +18,7 @@
   - 256GB SSD
 - OS:
   - Windows 11 Pro
-  - Kali Linux *(im going to change to different distro)*
+  - Debian 12
 ## Contact me
 ![](https://discord.c99.nl/widget/theme-1/525704336869687316.png)<br>
 ## Currently listening
