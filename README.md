@@ -19,6 +19,9 @@
 - OS:
   - Windows 11 Pro
   - Debian 12
+## 🔴 Some of my apps are offline?
+- If you have any troubles with visiting some of my apps, check my status page for maintenance message or something.
+- Status website: https://status.daneeskripter.dev
 ## Contact me
 ![](https://discord.c99.nl/widget/theme-1/525704336869687316.png)<br>
 ## Currently listening
