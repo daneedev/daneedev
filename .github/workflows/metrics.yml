@@ -12,8 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      uses: lowlighter/metrics@f6c4f63ecfbc342039ad33651e74a8519989b380
+      if: ${{ success() || failure() }}
         with:
+          filename: README.md
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
