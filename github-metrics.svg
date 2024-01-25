@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2157" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2041" class="">
     <defs>
         <style/>
     </defs>
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2091 Commits
+                            2105 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.35mb of code in 2296 edited files across 1156 commits</small>
+                <small>estimation from 7.62mb of code in 2303 edited files across 1163 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.84896810945668" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="227.84896810945668" y="0" width="201.88263269003028" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="429.731600799487" y="0" width="10.917724925925752" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.6493257254127" y="0" width="9.426644261059646" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.0759699864724" y="0" width="6.298066346185352" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.37403633265774" y="0" width="2.4438650608274783" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.8179013934852" y="0" width="1.0889733519942708" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9068747454795" y="0" width="0.09312525452051845" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.76953977675512" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="227.76953977675512" y="0" width="201.81225624264488" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="429.58179601940003" y="0" width="11.074275366557252" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="440.65607138595726" y="0" width="9.423358125323157" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.0794295112804" y="0" width="6.295870835214764" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.3753003464952" y="0" width="2.443013127510686" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="458.8183134740059" y="0" width="1.0885937350119204" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9069072090178" y="0" width="0.0930927909822354" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -250,7 +250,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>885 lines</div>
+                                <div>891 lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -345,7 +345,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 2 days
+                            Current streak 3 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -369,7 +369,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~4.20
+                            Average per day at ~4.25
                         </div>
                     </section>
                 </div>
@@ -1367,6 +1367,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
+                            <g transform="translate(-5.1, 4.333333333333333)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.666666666666667 0,5.666666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.666666666666667 1.7,6.666666666666667 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1388,14 +1393,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DaneeSkripter/AutoKafkaApp</span>
+                                        <span class="repo">DaneeSkripter/versionupdater</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9dfdf16</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#14a23a8</div>
+                                        <div class="message">changed to json</div>
                                     </div>
                                 </div>
                             </section>
@@ -1407,67 +1412,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">DaneeSkripter/AutoKafkaApp</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">DaneeSkripter/versionupdater</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2fdc038</div>
-                                        <div class="message">info tab style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1dd493e</div>
-                                        <div class="message">colors changed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e6613</div>
-                                        <div class="message">strings added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c35b57</div>
-                                        <div class="message">added button listener</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">DaneeSkripter/AutoKafkaApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6d902c6</div>
-                                        <div class="message">colors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28fb25c</div>
-                                        <div class="message">fragments info and home added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d0c3db</div>
-                                        <div class="message">mainActivity kotlin file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a42f8</div>
-                                        <div class="message">some things</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a17c33</div>
-                                        <div class="message">main activity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f54ddd9</div>
-                                        <div class="message">some gitignores</div>
+                                        <div class="sha">#99c5fc7</div>
+                                        <div class="message">AutoKafka version added</div>
                                     </div>
                                 </div>
                             </section>
@@ -1480,30 +1433,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">DaneeSkripter/MIG-Bot</span>
+                                        <span class="repo">repos-hub/repos-hub</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#35e28b5</div>
-                                        <div class="message">Merge pull request #56 from DaneeSkripter/dependabot/npm_and_yarn/dotenv-16.3.2
+                                        <div class="sha">#7334e9c</div>
+                                        <div class="message">Merge pull request #51 from repos-hub/dependabot/npm_and_yarn/dotenv-16.4.0
 
-Bump dotenv from 16.3.1 to 16.3.2</div>
+Bump dotenv from 16.3.2 to 16.4.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8ad64be</div>
-                                        <div class="message">Bump dotenv from 16.3.1 to 16.3.2
+                                        <div class="sha">#2346be9</div>
+                                        <div class="message">Bump dotenv from 16.3.2 to 16.4.0
 
-Bumps [dotenv](https://github.com/motdotla/dotenv) from 16.3.1 to 16.3.2.
+Bumps [dotenv](https://github.com/motdotla/dotenv) from 16.3.2 to 16.4.0.
 - [Changelog](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/motdotla/dotenv/compare/v16.3.1...v16.3.2)
+- [Commits](https://github.com/motdotla/dotenv/compare/v16.3.2...v16.4.0)
 
 ---
 updated-dependencies:
 - dependency-name: dotenv
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1519,30 +1472,71 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">domainerapp/domainer</span>
+                                        <span class="repo">DaneeSkripter/DaneeTools</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c20638d</div>
-                                        <div class="message">Merge pull request #17 from domainerapp/dependabot/npm_and_yarn/dotenv-16.3.2
+                                        <div class="sha">#ae22800</div>
+                                        <div class="message">Merge pull request #7 from DaneeSkripter/dependabot/npm_and_yarn/cookie-session-2.1.0
 
-Bump dotenv from 16.3.1 to 16.3.2</div>
+Bump cookie-session from 2.0.0 to 2.1.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eac6f92</div>
-                                        <div class="message">Bump dotenv from 16.3.1 to 16.3.2
+                                        <div class="sha">#9c78b83</div>
+                                        <div class="message">Bump cookie-session from 2.0.0 to 2.1.0
 
-Bumps [dotenv](https://github.com/motdotla/dotenv) from 16.3.1 to 16.3.2.
-- [Changelog](https://github.com/motdotla/dotenv/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/motdotla/dotenv/compare/v16.3.1...v16.3.2)
+Bumps [cookie-session](https://github.com/expressjs/cookie-session) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/expressjs/cookie-session/releases)
+- [Changelog](https://github.com/expressjs/cookie-session/blob/master/HISTORY.md)
+- [Commits](https://github.com/expressjs/cookie-session/compare/v2.0.0...v2.1.0)
 
 ---
 updated-dependencies:
-- dependency-name: dotenv
+- dependency-name: cookie-session
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">repos-hub/repos-hub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7e71fec</div>
+                                        <div class="message">Merge pull request #50 from repos-hub/dependabot/npm_and_yarn/cookie-session-2.1.0
+
+Bump cookie-session from 2.0.0 to 2.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#622eaaa</div>
+                                        <div class="message">Bump cookie-session from 2.0.0 to 2.1.0
+
+Bumps [cookie-session](https://github.com/expressjs/cookie-session) from 2.0.0 to 2.1.0.
+- [Release notes](https://github.com/expressjs/cookie-session/releases)
+- [Changelog](https://github.com/expressjs/cookie-session/blob/master/HISTORY.md)
+- [Commits](https://github.com/expressjs/cookie-session/compare/v2.0.0...v2.1.0)
+
+---
+updated-dependencies:
+- dependency-name: cookie-session
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1597,7 +1591,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 819k out of 128m users</span>
+                                    <span class="gh">ranked 820k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 44 public repositories</div>
                             </div>
@@ -1683,7 +1677,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191812 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880219165 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1752,7 +1746,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.859296482412056 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.41708542713568 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1774,7 +1768,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 74 times</div>
+                                <div class="text">Repositories have been deployed 76 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2075,7 +2069,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2m out of 51.9m repositories</span>
+                                    <span class="gh">ranked 2m out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -2121,7 +2115,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.04m out of 51.9m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2173,7 +2167,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 02:09:26 (timezone Europe/Prague) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 25 Jan 2024, 02:09:47 (timezone Europe/Prague) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
