@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    143k added, 72.5k removed
+                                    31.2k added, 3.95k removed
                                 </div>
                             </section>
                             <section>
@@ -1348,6 +1348,141 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">daneedev/SolaxCloudGarmin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80168c2</div>
+                                        <div class="message">try again after no wifi/bluetooth</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">daneedev/DaneeCloudBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f4dfa21</div>
+                                        <div class="message">Merge pull request #94 from daneedev/dependabot/npm_and_yarn/ws-8.17.1
+
+Bump ws from 8.17.0 to 8.17.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e27d2a5</div>
+                                        <div class="message">Bump ws from 8.17.0 to 8.17.1
+
+Bumps [ws](https://github.com/websockets/ws) from 8.17.0 to 8.17.1.
+- [Release notes](https://github.com/websockets/ws/releases)
+- [Commits](https://github.com/websockets/ws/compare/8.17.0...8.17.1)
+
+---
+updated-dependencies:
+- dependency-name: ws
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">repos-hub/repos-hub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#704ce4d</div>
+                                        <div class="message">Merge pull request #88 from repos-hub/dependabot/npm_and_yarn/braces-3.0.3
+
+Bump braces from 3.0.2 to 3.0.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48f41e1</div>
+                                        <div class="message">Bump braces from 3.0.2 to 3.0.3
+
+Bumps [braces](https://github.com/micromatch/braces) from 3.0.2 to 3.0.3.
+- [Changelog](https://github.com/micromatch/braces/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/micromatch/braces/compare/3.0.2...3.0.3)
+
+---
+updated-dependencies:
+- dependency-name: braces
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">repos-hub/repos-hub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e925aa3</div>
+                                        <div class="message">Merge pull request #87 from repos-hub/dependabot/npm_and_yarn/express-rate-limit-7.3.1
+
+Bump express-rate-limit from 7.2.0 to 7.3.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e181375</div>
+                                        <div class="message">Bump express-rate-limit from 7.2.0 to 7.3.1
+
+Bumps [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) from 7.2.0 to 7.3.1.
+- [Release notes](https://github.com/express-rate-limit/express-rate-limit/releases)
+- [Commits](https://github.com/express-rate-limit/express-rate-limit/compare/v7.2.0...v7.3.1)
+
+---
+updated-dependencies:
+- dependency-name: express-rate-limit
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">daneedev/1.C-Bot</span>
                                     </div>
@@ -1377,143 +1512,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/domainer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3088184</div>
-                                        <div class="message">Merge pull request #55 from daneedev/dependabot/npm_and_yarn/express-rate-limit-7.3.1
-
-Bump express-rate-limit from 7.2.0 to 7.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8511b98</div>
-                                        <div class="message">Bump express-rate-limit from 7.2.0 to 7.3.1
-
-Bumps [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) from 7.2.0 to 7.3.1.
-- [Release notes](https://github.com/express-rate-limit/express-rate-limit/releases)
-- [Commits](https://github.com/express-rate-limit/express-rate-limit/compare/v7.2.0...v7.3.1)
-
----
-updated-dependencies:
-- dependency-name: express-rate-limit
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/SlovakJeBest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cbf5b28</div>
-                                        <div class="message">Merge pull request #11 from daneedev/dependabot/npm_and_yarn/express-rate-limit-7.3.1
-
-Bump express-rate-limit from 7.3.0 to 7.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#648da89</div>
-                                        <div class="message">Bump express-rate-limit from 7.3.0 to 7.3.1
-
-Bumps [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) from 7.3.0 to 7.3.1.
-- [Release notes](https://github.com/express-rate-limit/express-rate-limit/releases)
-- [Commits](https://github.com/express-rate-limit/express-rate-limit/compare/v7.3.0...v7.3.1)
-
----
-updated-dependencies:
-- dependency-name: express-rate-limit
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/DaneeCloud</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dec250c</div>
-                                        <div class="message">Merge pull request #169 from daneedev/dependabot/npm_and_yarn/express-rate-limit-7.3.1
-
-Bump express-rate-limit from 7.2.0 to 7.3.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d606b0</div>
-                                        <div class="message">Bump express-rate-limit from 7.2.0 to 7.3.1
-
-Bumps [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) from 7.2.0 to 7.3.1.
-- [Release notes](https://github.com/express-rate-limit/express-rate-limit/releases)
-- [Commits](https://github.com/express-rate-limit/express-rate-limit/compare/v7.2.0...v7.3.1)
-
----
-updated-dependencies:
-- dependency-name: express-rate-limit
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">daneedev/SolaxCloudGarmin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a8a330b</div>
-                                        <div class="message">no update text added</div>
                                     </div>
                                 </div>
                             </section>
@@ -1938,7 +1936,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.71m out of 210m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1976,7 +1974,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.76m out of 210m repositories</span>
+                                    <span class="gh">ranked 1.76m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 12 stars</div>
                             </div>
@@ -2102,7 +2100,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2024, 18:12:24 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 19:09:08 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
