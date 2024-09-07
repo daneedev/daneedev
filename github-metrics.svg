@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1948" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2068" class="">
     <defs>
         <style/>
     </defs>
@@ -30,10 +30,10 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2419 Commits
+                            2439 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    74.3 MB used
+                                    74.5 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.4100862538252" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="187.4100862538252" y="0" width="153.17442903445985" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="340.58451528828505" y="0" width="48.110194294454196" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="388.6947095827392" y="0" width="41.846625189547574" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.54133477228686" y="0" width="10.029053042350258" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.5703878146371" y="0" width="8.737544654609476" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="449.30793246924657" y="0" width="6.917268513720684" height="8" fill="#8D6747"/>
-                    <rect mask="url(#languages-bar)" x="456.2252009829673" y="0" width="3.774799017032778" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.85097938150452" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="186.85097938150452" y="0" width="152.71745856051763" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="339.5684379420221" y="0" width="47.96666551862149" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="387.53510346064365" y="0" width="41.721782732054564" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="429.25688619269823" y="0" width="9.999133027953317" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="439.2560192206515" y="0" width="8.711477641028441" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="447.96749686167993" y="0" width="8.268965607337671" height="8" fill="#8D6747"/>
+                    <rect mask="url(#languages-bar)" x="456.2364624690177" y="0" width="3.763537530982374" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -304,6 +304,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 18 days
@@ -324,7 +330,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.91
+                            Average per day at ~2.01
                         </div>
                     </section>
                 </div>
@@ -1234,24 +1240,24 @@
                         </g>
                         <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 4.615384615384615)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3846153846153846 0,2.3846153846153846 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3846153846153846 1.7,3.3846153846153846 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3846153846153846 0,2.3846153846153846 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3846153846153846 1.7,3.3846153846153846 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.384615384615385)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6153846153846154 0,2.6153846153846154 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6153846153846154 1.7,3.6153846153846154 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6153846153846154 0,2.6153846153846154 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6153846153846154 1.7,3.6153846153846154 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.538461538461538)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4615384615384617 0,1.4615384615384617 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4615384615384617 1.7,2.4615384615384617 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1295,6 +1301,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 6.846153846153847)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.153846153846153 0,5.153846153846153 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.153846153846153 1.7,6.153846153846153 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1315,15 +1326,63 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">daneedev/daneedev</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">daneedev/SolaxCloudGarmin</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#370790e</div>
-                                        <div class="message">Update metrics.yml</div>
+                                        <div class="sha">#50de865</div>
+                                        <div class="message">print data on the frontend</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cebc1a</div>
+                                        <div class="message">icons positions changed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9443cba</div>
+                                        <div class="message">layout2 added</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">daneedev/SolaxCloudGarmin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0ad6779</div>
+                                        <div class="message">new max icons added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10c2207</div>
+                                        <div class="message">Saving max values</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e7d936</div>
+                                        <div class="message">reset values after starting app</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#462d9a1</div>
+                                        <div class="message">minpower icon removed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0631403</div>
+                                        <div class="message">minpower &amp; maxpower icons added</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3399f74</div>
+                                        <div class="message">two views system added</div>
                                     </div>
                                 </div>
                             </section>
@@ -1336,150 +1395,111 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">daneedev/domainer</span>
+                                        <span class="repo">daneedev/1.C-Bot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#22c4b05</div>
-                                        <div class="message">Merge pull request #61 from daneedev/dependabot/npm_and_yarn/axios-1.7.5
+                                        <div class="sha">#e13b4fd</div>
+                                        <div class="message">Merge pull request #64 from daneedev/dependabot/npm_and_yarn/discord.js-14.16.1
 
-Bump axios from 1.7.2 to 1.7.5</div>
+Bump discord.js from 14.15.3 to 14.16.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#17ecae4</div>
-                                        <div class="message">Bump axios from 1.7.2 to 1.7.5
+                                        <div class="sha">#a3862b8</div>
+                                        <div class="message">Bump discord.js from 14.15.3 to 14.16.1
 
-Bumps [axios](https://github.com/axios/axios) from 1.7.2 to 1.7.5.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v1.x/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v1.7.2...v1.7.5)
+Bumps [discord.js](https://github.com/discordjs/discord.js/tree/HEAD/packages/discord.js) from 14.15.3 to 14.16.1.
+- [Release notes](https://github.com/discordjs/discord.js/releases)
+- [Changelog](https://github.com/discordjs/discord.js/blob/main/packages/discord.js/CHANGELOG.md)
+- [Commits](https://github.com/discordjs/discord.js/commits/14.16.1/packages/discord.js)
 
 ---
 updated-dependencies:
-- dependency-name: axios
+- dependency-name: discord.js
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">daneedev/1.C-Bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#89be12b</div>
+                                        <div class="message">Merge pull request #63 from daneedev/dependabot/npm_and_yarn/discordjs/rest-2.4.0
+
+Bump @discordjs/rest from 2.3.0 to 2.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0844101</div>
+                                        <div class="message">Bump @discordjs/rest from 2.3.0 to 2.4.0
+
+Bumps [@discordjs/rest](https://github.com/discordjs/discord.js/tree/HEAD/packages/rest) from 2.3.0 to 2.4.0.
+- [Release notes](https://github.com/discordjs/discord.js/releases)
+- [Changelog](https://github.com/discordjs/discord.js/blob/main/packages/rest/CHANGELOG.md)
+- [Commits](https://github.com/discordjs/discord.js/commits/@discordjs/rest@2.4.0/packages/rest)
+
+---
+updated-dependencies:
+- dependency-name: "@discordjs/rest"
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">daneedev/1.C-Bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#50bac66</div>
+                                        <div class="message">Merge pull request #59 from daneedev/dependabot/npm_and_yarn/dayjs-1.11.13
+
+Bump dayjs from 1.11.11 to 1.11.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cc32ca</div>
+                                        <div class="message">Bump dayjs from 1.11.11 to 1.11.13
+
+Bumps [dayjs](https://github.com/iamkun/dayjs) from 1.11.11 to 1.11.13.
+- [Release notes](https://github.com/iamkun/dayjs/releases)
+- [Changelog](https://github.com/iamkun/dayjs/blob/v1.11.13/CHANGELOG.md)
+- [Commits](https://github.com/iamkun/dayjs/compare/v1.11.11...v1.11.13)
+
+---
+updated-dependencies:
+- dependency-name: dayjs
   dependency-type: direct:production
   update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/domainer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d67fe0a</div>
-                                        <div class="message">Merge pull request #58 from daneedev/dependabot/npm_and_yarn/express-rate-limit-7.4.0
-
-Bump express-rate-limit from 7.3.1 to 7.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2205c9a</div>
-                                        <div class="message">Bump express-rate-limit from 7.3.1 to 7.4.0
-
-Bumps [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) from 7.3.1 to 7.4.0.
-- [Release notes](https://github.com/express-rate-limit/express-rate-limit/releases)
-- [Commits](https://github.com/express-rate-limit/express-rate-limit/compare/v7.3.1...v7.4.0)
-
----
-updated-dependencies:
-- dependency-name: express-rate-limit
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/domainer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a9970e3</div>
-                                        <div class="message">Merge pull request #57 from daneedev/dependabot/npm_and_yarn/cloudflare-3.5.0
-
-Bump cloudflare from 3.4.0 to 3.5.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#485282c</div>
-                                        <div class="message">Bump cloudflare from 3.4.0 to 3.5.0
-
-Bumps [cloudflare](https://github.com/cloudflare/cloudflare-typescript) from 3.4.0 to 3.5.0.
-- [Release notes](https://github.com/cloudflare/cloudflare-typescript/releases)
-- [Changelog](https://github.com/cloudflare/cloudflare-typescript/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/cloudflare/cloudflare-typescript/compare/v3.4.0...v3.5.0)
-
----
-updated-dependencies:
-- dependency-name: cloudflare
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">daneedev/DaneeCloud</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f08f07</div>
-                                        <div class="message">Merge pull request #182 from daneedev/dependabot/npm_and_yarn/mongoose-8.5.4
-
-Bump mongoose from 8.4.1 to 8.5.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53c8a56</div>
-                                        <div class="message">Bump mongoose from 8.4.1 to 8.5.4
-
-Bumps [mongoose](https://github.com/Automattic/mongoose) from 8.4.1 to 8.5.4.
-- [Release notes](https://github.com/Automattic/mongoose/releases)
-- [Changelog](https://github.com/Automattic/mongoose/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/Automattic/mongoose/compare/8.4.1...8.5.4)
-
----
-updated-dependencies:
-- dependency-name: mongoose
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1541,7 +1561,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.9558521560575 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1828,7 +1848,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.52m out of 143m users</span>
+                                    <span class="gh">ranked 1.53m out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -1907,7 +1927,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.74m out of 215m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1945,7 +1965,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.79m out of 215m repositories</span>
+                                    <span class="gh">ranked 1.79m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 12 stars</div>
                             </div>
@@ -2071,7 +2091,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2024, 02:48:51 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2024, 02:47:58 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
